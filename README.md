@@ -1,2 +1,2 @@
-# tpe-tdi
-Se busca realizar el análisis de señales de temperatura diaria provenientes de tres ciudades con climas distintos: Quito, Melbourne y Oslo.
+# TPE
+Se busca realizar el análisis de señales de temperatura diaria provenientes de tres ciudades con climas distintos: Quito, Melbourne y Oslo. La fuente de información son nuevos satélites (lanzados por Elon Musk) que monitorean estas temperaturas. Pero existen restricciones de costos impuestos por el presidente Grump, por lo tanto se deben utilizar las herramientas de Teoría de la Información para analizar los datos de temperatura, codificarlos y comprimirlos, reduciendo la cantidad de bits necesarios para representar las temperaturas sin perder la información esencial, evitando generar altos gastos en transmisión.
